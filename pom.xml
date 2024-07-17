@@ -5,7 +5,7 @@
 	<groupId>com.nupur.training</groupId>
 	<artifactId>Jenkins1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-<!-- Commented out textss -->
+<!-- Commented out textsss -->
 
 	<properties>
 		<sonar.login>sqa_7145e2e0fe91e18211299b0d627a590d27edd325</sonar.login>
